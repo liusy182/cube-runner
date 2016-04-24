@@ -56,13 +56,13 @@
 		4313B6D11CCCA8D60068340F /* cube-runner */ = {
 			isa = PBXGroup;
 			children = (
-				4313B6D21CCCA8D60068340F /* AppDelegate.swift */,
 				4313B6D41CCCA8D60068340F /* art.scnassets */,
-				4313B6D61CCCA8D60068340F /* GameViewController.swift */,
-				4313B6D81CCCA8D60068340F /* Main.storyboard */,
 				4313B6DB1CCCA8D60068340F /* Assets.xcassets */,
-				4313B6DD1CCCA8D60068340F /* LaunchScreen.storyboard */,
 				4313B6E01CCCA8D60068340F /* Info.plist */,
+				4313B6D81CCCA8D60068340F /* Main.storyboard */,
+				4313B6DD1CCCA8D60068340F /* LaunchScreen.storyboard */,
+				4313B6D21CCCA8D60068340F /* AppDelegate.swift */,
+				4313B6D61CCCA8D60068340F /* GameViewController.swift */,
 			);
 			path = "cube-runner";
 			sourceTree = "<group>";
